@@ -1,0 +1,38 @@
+[
+  {
+    "PatientID": 1042999.0,
+    "Pregnancies": 1.0,
+    "PlasmaGlucose": 1.163865891465479,
+    "DiastolicBloodPressure": -1.797997174267299,
+    "TricepsThickness": -0.9525598585108486,
+    "SerumInsulin": -0.6596605248717998,
+    "BMI": 1.1313546258567155,
+    "DiabetesPedigree": -0.6045339958917743,
+    "Age": 46.0,
+    "Diabetic": 0.0
+  },
+  {
+    "PatientID": 1760365.0,
+    "Pregnancies": 8.0,
+    "PlasmaGlucose": -1.969033589730864,
+    "DiastolicBloodPressure": -0.012350721299692375,
+    "TricepsThickness": 1.3223992755542573,
+    "SerumInsulin": 0.4915586097765734,
+    "BMI": 0.9465861537526953,
+    "DiabetesPedigree": -0.7847416920118931,
+    "Age": 50.0,
+    "Diabetic": 1.0
+  },
+  {
+    "PatientID": 1952610.0,
+    "Pregnancies": 9.0,
+    "PlasmaGlucose": -0.7785317868762536,
+    "DiastolicBloodPressure": -0.8456523993512421,
+    "TricepsThickness": 1.0466466532433354,
+    "SerumInsulin": -0.45034795493573193,
+    "BMI": 1.2435584868859053,
+    "DiabetesPedigree": -0.5980944780492085,
+    "Age": 26.0,
+    "Diabetic": 0.0
+  }
+]
